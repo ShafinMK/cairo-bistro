@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Kdam+Thmor+Pro&family=Lobster&family=Poppins:wght@400;500;700&family=Roboto:wght@500&display=swap');
+
+.card-img-top {
+    width: 100%;
+    height: 45vh;
+    object-fit: cover;
+}
+
+.small-txt{
+    font-size: 15px;
+}
+
+.item-name{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
